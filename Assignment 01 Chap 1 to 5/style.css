@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: coral;
+    border-radius: 5rem;
+    margin-top: 30px;
+   
+}
+.chap_01{
+    height: 120px;
+    margin: 30px ;;
+    background-color:blanchedalmond ;
+    text-align: center;
+    border-radius: 1rem;
+    padding-top: 10px;
+    border: 5px solid;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    background-color: rgb(140, 221, 131);
+    font-size: 2rem;
+    font-family: sans-serif;
+    border-radius: 6rem;
+    margin: 10px;
+    border: 5px solid purple;
+}
+
+
+h2 {
+    color: rgb(11, 7, 9);
+    background-color: rgb(236, 95, 182);
+    text-align: center;
+    font-size: 2rem;
+    border: 5px solid rgb(38, 193, 227);
+    font-family: sans-serif;
+    border-radius: 6rem;
+    margin: 10px;
+}
+
+
+.chap_02 {
+    height: 350px;
+    background-color:navajowhite;
+   text-align: center;
+   margin: 30px;
+   line-height: 46px;
+   border-radius: 1rem;
+   padding-top: 10px;
+   border: 5px solid;
+
+}
+
+.chap_03 {
+   
+    height: 150px;
+     background-color: bisque;
+    text-align: center;
+    margin: 30px;
+   line-height: 46px;
+   padding-bottom: 90px;
+   border-radius: 1rem;
+   padding-top: 10px;
+   border: 5px solid;
+   color: black;
+}
+
+.chap_04 {
+    height: 500px;
+    background-color: bisque;
+   text-align: center;
+   margin: 30px;
+  padding-bottom: 90px;
+  border-radius: 1rem;
+  padding-top: 10px;
+  border: 5px solid;
+  color: black;
+} 
+
+.chap_04 p {
+    font-size: 2rem;
+    margin-top: 20px;
+    }
+
+.chap_05 p {
+    font-size: 1.5rem;
+    margin-top: 30px;
+    margin-left: 30px;
+    }

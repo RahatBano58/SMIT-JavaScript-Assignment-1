@@ -365,7 +365,7 @@ document.write("You will need " + totalAmountNeeded + " " + favoriteSnack + "(s)
 
 //                      Chapter 04: VARIABLE NAMES: LEGAL & ILLEGALa = "Legal & Illegal"
 
-p = "<h1>CH______ #04:Legal & Illegal</h1>"
+p = "<h1>Chapter 04:  Legal & Illegal</h1>"
 document.write(p)
 // Q1: Declare 3 variables in one statement
 

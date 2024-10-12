@@ -158,7 +158,7 @@ let order_Message = visitorName + " ordered " + quantity + " " + productTitle + 
 // Display the message in the browser inside the paragraph with id="orderMessage"
 document.getElementById("orderMessage").innerHTML = order_Message;
 
-//                Chapter 05: "MATH EXPRESSIONS"
+//                Chapter 05: "Math Expression"
 
 
 // QNO #01;
@@ -363,7 +363,7 @@ document.write("You will need " + totalAmountNeeded + " " + favoriteSnack + "(s)
 
 //  
 
-//                      Chapter 04: VARIABLE NAMES: LEGAL & ILLEGALa = "Legal & Illegal"
+//                      Chapter 04: VARIABLE NAMES: LEGAL & ILLEGAL"
 
 p = "<h1>Chapter 04:  Legal & Illegal</h1>"
 document.write(p)
